@@ -30,5 +30,10 @@
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41",
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3"
   }
 }
